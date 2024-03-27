@@ -65,7 +65,7 @@ public class TestFunzione {
         int lunghezza = schermoX; //1200
         int altezza = schermoY; //800
 
-        JFrame frame = new JFrame("Circonferenze");
+        JFrame frame = new JFrame("Funzioni");
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(schermoX, schermoY);
